@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Computer Science student currently pursuing my degre
 ### My Academic Journey
 I'm currently entering my second year of university, learning and applying programming concepts.
 ##### My Current Skills:
-- Discrete Mathematics, Statisitcs and Mulitderivative Calculus
+- Discrete Mathematics, Statisitcs and Mulitvariable Calculus
 - Information Systems and Relational Databases (SQL, PostgresSQL)
 - Backend Programming Fundamentals and OOP (Python, Java)
 ##### Skills I am looking foward to Learning:
