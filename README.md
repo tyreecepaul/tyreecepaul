@@ -12,6 +12,10 @@ I'm currently entering my second year of university, learning and applying progr
 - Advanced Machine Learning and Statistical Learning
 - Advanced Techniques for High Dimensional Data and Big Data
 
+### Current Projects
+I'm actively working on some exciting projects that allow me to apply what I've been learning and demonstrate my technical ability:
+#### 1. (QLD) ATAR Goal Tracker Dashboard
+This project focuses on utilizing historical Queensland ATAR Sources to predict student ATAR results, with a primary focus on helping students reach their desired ATAR by highlighting areas of improvement and suggesting minimum results required to meet their goal.
 <!--
 **tyreecepaul/tyreecepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
