@@ -1,5 +1,5 @@
 ## Hi there, I'm Tyrecee
-Welcome to my GitHub! I'm a Computer Science student majoring in Machine Learning and Data Science, currently pursuing a joint Master's degree in Data Science. My goal is to work in Applied Science, leveraging advanced machine learning techniques and data-driven solutions to drive innovation. I aim to collaborate with multidisciplinary teams, focusing on building scalable systems that address real-world challenges. Through my work, I aspire to support small businesses, startups, and entrepreneurs by applying machine learning to optimize processes, enhance decision-making, and foster growth.
+Welcome to my GitHub! I'm a Computer Science / Mathematics student majoring in Machine Learning and Mathematical Artificial Intelligence, minoring in Statisitcs and Computational Science. My goal is to work in Applied Science, leveraging advanced machine learning techniques and data-driven solutions to drive innovation. I aim to collaborate with multidisciplinary teams, focusing on building scalable systems that address real-world challenges. Through my work, I aspire to support small businesses, startups, and entrepreneurs by applying machine learning to optimize processes, enhance decision-making, and foster growth.
 
 ### My Academic Journey
 I am a second year university student, learning and applying programming concepts.
