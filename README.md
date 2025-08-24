@@ -1,11 +1,9 @@
 <i class="devicon-python-plain"></i>
 
-
 # Tyreece Paul
 
 ![Computer Science (ML)](https://img.shields.io/badge/Computer%20Science%20(ML)-blue?style=for-the-badge)
 ![Mathematics (MAI)](https://img.shields.io/badge/Mathematics%20(MAI)-white?style=for-the-badge)
-
 
 I'm a student at the University of Queensland interested interested in Machine Learning and Mathematical Artificial Intelligence, taking electives in Statistics, Data Science, Opimisation, Computational Science and Operations Research. My interests are in applied science fields, bridging together the knowledge from research and practical production to develop efficient and reliable applications. Here I showcase my skills through project based learning and working towards improving my skills and knowledge set.
 
