@@ -19,6 +19,15 @@
 
 ---
 
+### Currently Reading
+
+- [**Designing Machine Learning Systems** — Chip Huyen](https://www.designingml.systems/)
+- [**The Elements of Statistical Learning** — Hastie, Tibshirani, Friedman](https://hastie.su.domains/ElemStatLearn/)
+- [**Pattern Recognition and Machine Learning** — Christopher Bishop](https://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
+- [**Deep Learning** — Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
+
+---
+
 ### Languages and Tools
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
