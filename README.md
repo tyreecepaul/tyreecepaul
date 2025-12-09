@@ -14,7 +14,7 @@
 ### About Me  
 - Student at University of Queensland, Bachelor of Computer Science / Mathematics  
 - Majoring in Mathematical Artifical Intelligence and Machine Learning  
-- Interested in Software Engineering and Applied Science  
+- Interested in Software Engineering, ML/AI Engineering and Applied Science  
 - Learning Backend Engineering, DevOps and Data Engineering  
 
 ---
